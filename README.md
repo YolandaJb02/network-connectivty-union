@@ -1,2 +1,0 @@
-# network-connectivty-union
-This program models and analyzes network connectivity as relationships between nodes change dynamically over time. It implements a Disjoint Set (Union-Find) data structure with path compression and union-by-rank to efficiently track and report on connected components as the network evolves. A reverse-processing algorithm reconstructs historical connectivity states, calculating changes over time while minimizing redundant computation.
